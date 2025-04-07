@@ -1,6 +1,6 @@
 # Predicción de Abandono de Clientes en Telecomunicaciones
 
-Notebook(por si no corre o abre el archivo) = https://colab.research.google.com/drive/1boTddF5KgqISiFEMCQ20v0mJS6R6F8mF?usp=sharing
+**Notebook** (por si no corre o abre el archivo, aquí ya esta el link del csv github para correrlo de una vez) = https://colab.research.google.com/drive/1boTddF5KgqISiFEMCQ20v0mJS6R6F8mF?usp=sharing
 
 Este proyecto tiene como objetivo predecir el abandono de clientes en una empresa de telecomunicaciones utilizando técnicas de aprendizaje automático. Se exploran diferentes modelos, como Perceptrón, Adaline y Regresión Logística, para identificar el modelo con mejor rendimiento.
 
